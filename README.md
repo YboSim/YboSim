@@ -15,5 +15,5 @@
 
 <h2>📖study</h2>
 
-- Cs기초
+- [Cs기초](https://github.com/YboSim/Study)
 - Unity
