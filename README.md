@@ -5,8 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybosim&show_icons=true&theme=dark)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=syb0203)](https://solved.ac/syb0203)
-
 <h2>🎮portfolio</h2>
 
 - [Unity2D Rogue_Defense](https://github.com/YboSim/Rogue_Defense_Unity2D)
